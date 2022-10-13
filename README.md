@@ -1,0 +1,2 @@
+# tri
+Tembak paket tri
