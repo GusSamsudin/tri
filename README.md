@@ -11,7 +11,7 @@ $ git clone https://github.com/GusSamsudin/tri
 
 $ cd tri
 
-$ php teri.php
+$ php tri.php
 
 
 
